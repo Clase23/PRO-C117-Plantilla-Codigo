@@ -11,23 +11,10 @@
 
 //Selector jQuery y la acción click.
 
-$(function () {
-    $("#predict_button").click(function () {
-        //Llamada a AJAX 
-
-        $.ajax({
-            
-            
-              {
                 
                 // Resultado recibido de Flask ----->JavaScript
                 
                 // Mostrar resultado usando JavaScript----->HTML
                 
-            },
-            //Función error 
-            
-        });
-    });
-})
+
 
